@@ -2,6 +2,8 @@
 Neuropixels Probes
 """
 
+from __future__ import annotations
+
 import datajoint as dj
 import numpy as np
 
